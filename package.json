@@ -1,6 +1,6 @@
 {
   "name": "vega-browserify",
-  "version": "2.2.8",
+  "version": "2.2.9",
   "description": "The Vega visualization grammar. Adapted for use with Browserify.",
   "keywords": [
     "vega",
