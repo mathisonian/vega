@@ -1,6 +1,6 @@
 var dl = require('datalib'),
     d3 = require('d3'),
-    d3_cloud = require('d3.layout.cloud'),
+    d3_cloud = require('d3.layout.cloud-browserify'),
     Tuple = require('vega-dataflow/src/Tuple'),
     log = require('vega-logging'),
     Transform = require('./Transform'),
